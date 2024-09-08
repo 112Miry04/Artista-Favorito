@@ -1,0 +1,25 @@
+h1{
+    color:brown;
+}
+
+p{
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 16px;
+}
+
+h3{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+}
+
+body{
+    background-color: bisque;
+}
+
+.cajita{
+    border-style:ridge;
+    border-color: chocolate;
+    width: auto;
+    height: auto;
+}
